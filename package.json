@@ -1,0 +1,26 @@
+{
+  "name": "chatbot",
+  "version": "1.0.0",
+  "description": "Chatbot powered by ChatGPT 3.5, set up using NodeJS",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AshleyCodes-1/Chatbot-with-NodeJS.git"
+  },
+  "author": "Ayush Das",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AshleyCodes-1/Chatbot-with-NodeJS/issues"
+  },
+  "homepage": "https://github.com/AshleyCodes-1/Chatbot-with-NodeJS#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "dotenv": "^16.4.1",
+    "openai": "^4.25.0",
+    "readline-sync": "^1.4.10"
+  }
+}
