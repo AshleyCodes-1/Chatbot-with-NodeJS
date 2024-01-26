@@ -1,7 +1,6 @@
 # Chatbot with NodeJS using the ChatGPT-3.5-Turbo API
 
 This project is a chatbot built using Node.js and OpenAI's GPT-3.5 Turbo API. This chatbot works in the CLI of the computer and can easily be incorporated to make a standalone chatbot UI for website and apps.
-It uses the following libraries: dotenv, colors, openai, and readline-sync.
 
 ## Table of Contents
 
