@@ -15,7 +15,9 @@ This project is a chatbot built using Node.js and OpenAI's GPT-3.5 Turbo API. Th
 - [License](#license)
 
 ## Gallery
-
+<video width="320" height="240" controls>
+  <source src="./assets/Chatbot-demo.mp4" type="video/mp4">
+</video>
 
 ## Getting Started
 

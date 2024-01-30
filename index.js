@@ -4,8 +4,8 @@ import colors from 'colors';
 
 async function main(){
 
-    console.log(colors.bold.green('Welcome to the Chatbot Program!'));
-    console.log(colors.bold.green('You can start chatting with the bot.'));
+    console.log(colors.bold.green('Welcome to the ChatGPT Powered Chatbot in CLI.'));
+    console.log(colors.bold.green('Start Chatting in just your Terminal!'));
 
     const chatHistory = []; // Store conversation history
 
@@ -30,7 +30,7 @@ async function main(){
 
 
             if (userInput.toLowerCase() == 'exit'){
-                console.log(colors.green('Bot: ') + completionText);
+                console.log(colors.green('ChatGPT: ') + completionText);
                 return;
             }
 
