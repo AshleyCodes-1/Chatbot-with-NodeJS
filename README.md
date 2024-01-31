@@ -15,6 +15,7 @@ This project is a chatbot built using Node.js and OpenAI's GPT-3.5 Turbo API. Th
 - [License](#license)
 
 ## Gallery
+<img src="./assets/Chatbot.png" alt="chatbot" width="600" />
 
 https://github.com/AshleyCodes-1/Chatbot-with-NodeJS/blob/main/assets/Chatbot-demo.mp4
 
